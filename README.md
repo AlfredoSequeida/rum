@@ -5,11 +5,11 @@
 
 Rum is a cross platform integration client focused on making your multi screen ecosystem simple by bringing your devices together. 
 
-## Please note, rum is not yet ready for usage and is currently under development.
+### Please note, rum is not yet ready for usage and is currently under development.
 
-## Additions to the to-do list are welcomed.
+### Additions to the to-do list are welcomed.
 
-#To-Do List
+##To-Do List
 * Implement html for different sections
 * Implement solution to avoid mixing of devices on the same network
 	* Create login screen
