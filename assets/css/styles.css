@@ -1,6 +1,6 @@
 .sidenav {
         height: 100%;
-        width: 100px;
+        width: 200px;
         position: fixed;
         z-index: 1;
         top: 0;
@@ -12,9 +12,10 @@
 }
 
 .sidenav a{
+        font-size: 100px;
         padding: 8px 8px 8px 32px;
         text-decoration: none;
-        font-size: 25px;
+        font-size: 50px;
         color: #818181;
         display: block;
         transition: 0.3s;
@@ -24,7 +25,7 @@
         color: #f1f1f1;
 }
 
-#container {
+#container-display {
         right: 0;
         position: absolute;
         transition: margin-right;

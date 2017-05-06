@@ -4,7 +4,10 @@
   "description": "A cross platform integration client focused on making your multi screen ecosystem simple by bringing your devices together.",
   "main": "main.js",
   "dependencies": {
-    "angular": "^1.6.4"
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
   },
   "devDependencies": {},
   "scripts": {

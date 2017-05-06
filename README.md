@@ -10,6 +10,7 @@ Rum is a cross platform integration client focused on making your multi screen e
 ### Additions to the to-do list are welcomed.
 
 ## To-Do List
+~~* Implement angular route menu~~
 * Implement html for different sections
 * Implement solution to avoid mixing of devices on the same network
 	* Create login screen
