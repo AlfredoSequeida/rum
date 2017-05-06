@@ -1,22 +1,22 @@
 var rumApp = angular.module('rumApp', ['ngRoute']);
 
-// configure our routes
+// route config
 rumApp.config(function($routeProvider) {
         $routeProvider
 
-        // route for the home page
+        // route for the home/file page
                 .when('/', {
                         templateUrl : 'file/file.html',
                         controller  : 'mainController'
                 })
 
-        // route for the about page
+        // route for the sms page
                 .when('/messaging', {
                         templateUrl : 'messaging/messaging.html',
                         controller  : 'messagingController'
                 })
 
-        // route for the contact page
+        // route for the phone page
                 .when('/phone', {
                         templateUrl : 'phone/phone.html',
                         controller  : 'phoneController'
