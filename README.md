@@ -1,4 +1,4 @@
-![rum]()
+![rum](https://cdn.rawgit.com/AlfredoSequeida/rum/98c9ab8d/assets/images/banner.svg)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AlfredoSequeida/rum/issues)
