@@ -1,13 +1,8 @@
 ![rum](https://cdn.rawgit.com/AlfredoSequeida/rum/98c9ab8d/assets/images/banner.svg)
+Rum is a cross platform integration client focused on making your multi screen ecosystem simple by bringing your devices together. 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/AlfredoSequeida/rum/issues)
-
-![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)
-![forthebadge](http://forthebadge.com/images/badges/uses-html.svg)
-![forthebadge](http://forthebadge.com/images/badges/uses-css.svg)
-
-Rum is a cross platform integration client focused on making your multi screen ecosystem simple by bringing your devices together. 
 
 ### Please note, rum is not yet ready for usage and is currently under development.
 
