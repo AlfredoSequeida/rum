@@ -1,31 +1,22 @@
-/*
- * Copyright (C) 2017 Alfredo Sequeida (alfredosequeida.github.io)
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License version 3 as
- * published by the Free Software Foundation.
- *
-*/
-
 var rumApp = angular.module('rumApp', ['ngRoute']);
 
-// route config
+// configure our routes
 rumApp.config(function($routeProvider) {
         $routeProvider
 
-        // route for the home/file page
+        // route for the file page
                 .when('/', {
                         templateUrl : 'file/file.html',
                         controller  : 'mainController'
                 })
 
-        // route for the sms page
+        // route for the messagin page
                 .when('/messaging', {
                         templateUrl : 'messaging/messaging.html',
                         controller  : 'messagingController'
                 })
 
-        // route for the phone page
+        // route for the phone page
                 .when('/phone', {
                         templateUrl : 'phone/phone.html',
                         controller  : 'phoneController'
