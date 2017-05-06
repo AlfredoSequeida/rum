@@ -1,0 +1,36 @@
+{
+  "name": "rum",
+  "version": "1.0.0",
+  "description": "A cross platform integration client focused on making your multi screen ecosystem simple by bringing your devices together.",
+  "main": "main.js",
+  "dependencies": {
+    "angular": "^1.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoSequeida/rum.git"
+  },
+  "keywords": [
+    "rum",
+    "integration",
+    "cross-platform",
+    "android",
+    "ios",
+    "electron",
+    "js",
+    "html",
+    "css",
+    "angular",
+    "bootstrap"
+  ],
+  "author": "Alfredo Sequeida",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/AlfredoSequeida/rum/issues"
+  },
+  "homepage": "https://github.com/AlfredoSequeida/rum#readme"
+}
