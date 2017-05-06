@@ -14,6 +14,8 @@ Rum is a cross platform integration client focused on making your multi screen e
 * Implement html for different sections
 * Implement solution to avoid mixing of devices on the same network
 	* Create login screen
+        * ~~html~~
+        * js
 * Implement device selection
 	* Create device selection screen
 	* Selection should include:
