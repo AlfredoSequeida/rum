@@ -1,11 +1,30 @@
+<!--
+        Copyright (C) 2017 Alfredo Sequeida (alfredosequeida.github.io)
+        This program is free software; you can redistribute it and/or modify
+        it under the terms of the GNU General Public License version 3 as
+        published by the Free Software Foundation.
+-->
+
+<!DOCTYPE html>
 <html>
         <head>
                 <link rel="stylesheet" href="./assets/css/styles.css"/>
-                <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"/>
-                <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css"/>
+                <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css"/>
+                <link rel="stylesheet" href="../node_modules/font-awesome/css/font-awesome.min.css"/>
         </head>
 
         <body>
+                <div class="wrapper">
+                        <img class="center-block rum-banner"src="../assets/images/banner.svg"></img>
+                        <form class="form-signin">
+                                <input type="text" class="form-control" name="username" placeholder="User" required="" autofocus="" />
+                                <input type="password" class="form-control" name="password" placeholder="Password" required=""/>
+                                <label class="checkbox">
+                                        <input type="checkbox" value="remember-me" id="rememberMe" name="rememberMe"> Remember me
+                                </label>
+                                <button class="btn btn-lg btn-primary btn-block" type="submit">Login</button>
+                        </form>
+                </div>
         </body>
 </html>
 

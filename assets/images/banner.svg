@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,7 +94,7 @@
            height="66.670067"
            x="-30.304577"
            y="248.17255" /></flowRegion><flowPara
-         id="flowPara4578"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4578" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4580"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -104,5 +104,5 @@
            height="48.487324"
            x="72.73098"
            y="223.92888" /></flowRegion><flowPara
-         id="flowPara4586"></flowPara></flowRoot>  </g>
+         id="flowPara4586" /></flowRoot>  </g>
 </svg>
