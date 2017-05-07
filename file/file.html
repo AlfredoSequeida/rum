@@ -7,4 +7,51 @@
 
 <!DOCTYPE html>
 
-<h1>File</h1>
+<!-- ftp connection-->
+<html class="ng-scope" data-ng-app="FileManagerApp">
+        <head>
+                <!--
+                        <link rel="stylesheet" href="./assets/css/styles.css"/>
+                -->
+
+                <!-- third party -->
+                <script src="../node_modules/angular/angular.min.js"></script>
+                <script src="../node_modules/angular-translate/angular-translate.min.js"></script>
+                <script src="../node_modules/jquery/dist/jquery.min.js"></script>
+                <script src="../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+                <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
+
+                <!-- angular-filemanager -->
+                <script src="./assets/angular-filemanager-master/src/js/app.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/directives/directives.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/filters/filters.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/providers/config.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/entities/chmod.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/entities/item.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/services/apihandler.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/services/apimiddleware.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/services/filenavigator.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/providers/translations.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/controllers/main.js"></script>
+                <script src="./assets/angular-filemanager-master/src/js/controllers/selector-controller.js"></script>
+                <link href="./assets/angular-filemanager-master/src/css/animations.css" rel="stylesheet">
+                <link href="./assets/angular-filemanager-master/src/css/dialogs.css" rel="stylesheet">
+                <link href="./assets/angular-filemanager-master/src/css/main.css" rel="stylesheet">
+
+        </head>
+
+        <style>
+iframe {
+        display: block;
+        background: #eee;
+        border: none;
+        height: 100vh;
+        width: 100vw;
+}
+        </style>
+
+        <body>
+                <iframe src="ftp://192.168.1.112:2221"></iframe>
+        </body>
+</html>
+
