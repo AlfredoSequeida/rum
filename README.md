@@ -9,6 +9,21 @@ Rum is a cross platform integration client focused on making your multi screen e
 
 ### Additions to the to-do list are welcomed.
 
+## Run
+
+Install npm
+In the project's root run these commands in a terminal / command line 
+
+Install dependencies
+```
+npm i 
+```
+
+Run
+```
+npm start
+```
+
 ## To-Do List
 * ~~Implement angular route menu~~
 * Implement html for different sections
