@@ -9,10 +9,11 @@ Rum is a cross platform integration client focused on making your multi screen e
 
 ### Additions to the to-do list are welcomed.
 
-## Run
+## To Run
 
-Install npm
-In the project's root run these commands in a terminal / command line 
+1. Install npm for your system
+
+2. In rum's root directory run these commands in a terminal / command line 
 
 Install dependencies
 ```
